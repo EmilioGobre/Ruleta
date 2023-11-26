@@ -15,6 +15,6 @@ dotnet user-secrets set "ConnectionStrings:RuletaContext" "Server=localhost; Dat
 
 dotnet ef migrations add InitialCreate --output-dir Models\Migrations
 
-dotnet ef database update --connection "Server=localhost; DataBase=Ruleta; User Id=sa; Password=$sa_password; TrustServerCertificate=True;"
+dotnet ef database update --connection "Server=localhost; DataBase=Ruleta; User Id=sa; Password=$sa_password; TrustServerCertificate=True;" 
 
 ```
