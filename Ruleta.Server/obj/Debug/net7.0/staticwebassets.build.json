@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "pErl9t7NRRX0mQhRsTBMmuFFVuWA1RcOJW782/i5Ax0=",
+  "Source": "Ruleta.Server",
+  "BasePath": "_content/Ruleta.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/Users/andremejia/.nuget/packages/blazored.toast/4.1.0/staticwebassets/Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/andremejia/.nuget/packages/blazored.toast/4.1.0/staticwebassets/",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/andremejia/.nuget/packages/blazored.toast/4.1.0/staticwebassets/Blazored.Toast.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/andremejia/Documents/ruleta/Ruleta.Server/obj/Debug/net7.0/scopedcss/bundle/Ruleta.Server.styles.css",
+      "SourceId": "Ruleta.Server",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/andremejia/Documents/ruleta/Ruleta.Server/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/Ruleta.Server",
+      "RelativePath": "Ruleta.Server.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/andremejia/Documents/ruleta/Ruleta.Server/obj/Debug/net7.0/scopedcss/bundle/Ruleta.Server.styles.css"
+    }
+  ]
+}
