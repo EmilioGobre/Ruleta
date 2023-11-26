@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andremejia/Documents/ruleta/Ruleta.Server/Ruleta.Server.csproj": {}
+    "C:\\Users\\lime1\\OneDrive\\Documentos\\Ruleta\\Ruleta.Server\\Ruleta.Server.csproj": {}
   },
   "projects": {
-    "/Users/andremejia/Documents/ruleta/Ruleta.Server/Ruleta.Server.csproj": {
+    "C:\\Users\\lime1\\OneDrive\\Documentos\\Ruleta\\Ruleta.Server\\Ruleta.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andremejia/Documents/ruleta/Ruleta.Server/Ruleta.Server.csproj",
+        "projectUniqueName": "C:\\Users\\lime1\\OneDrive\\Documentos\\Ruleta\\Ruleta.Server\\Ruleta.Server.csproj",
         "projectName": "Ruleta.Server",
-        "projectPath": "/Users/andremejia/Documents/ruleta/Ruleta.Server/Ruleta.Server.csproj",
-        "packagesPath": "/Users/andremejia/.nuget/packages/",
-        "outputPath": "/Users/andremejia/Documents/ruleta/Ruleta.Server/obj/",
+        "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\Ruleta\\Ruleta.Server\\Ruleta.Server.csproj",
+        "packagesPath": "C:\\Users\\lime1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\Ruleta\\Ruleta.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/andremejia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lime1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/Users/andremejia/Documents/8vo semestre/Programacion web II/3er parcial": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
